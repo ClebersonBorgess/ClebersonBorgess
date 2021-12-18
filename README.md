@@ -1,6 +1,6 @@
 - 👋 Olá, sou @ClebersonBorgess;
 - 👀 Estou interessado em aperfeiçoar os meus conhecimentos;
-- 🌱 Atualmente estou aprendendo Java;
+- 🌱 Atualmente estou aprendendo JavaScript;
 - 💞️ Estou procurando colaborar em o que eu poder colaborar;
 - 📫 Como chegar até mim https://www.linkedin.com/in/cleberson-borges-01b711122/
 
